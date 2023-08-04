@@ -1,6 +1,6 @@
 {
-  "name": "fix github search",
-  "description": "fix github search",
+  "name": "fix_chrome_search_on_github",
+  "description": "fix",
   "version": "1.0.0",
   "manifest_version": 3,
   "content_scripts": [
