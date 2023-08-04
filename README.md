@@ -2,3 +2,11 @@
 
 ![1691174639670](docs/img/1691174639670.png)
 shit!fix Chrome search on Github
+
+## Do you want to add it as a user style sheet?
+
+```css
+body>div:nth-child(n+2) {
+    display: none;
+}
+```
