@@ -1,0 +1,12 @@
+{
+  "name": "fix github search",
+  "description": "fix github search",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "content_scripts": [
+    {
+      "matches": ["https://github.com/*"],
+      "css": ["src/assets/css/style.css"]
+    }
+  ]
+}
